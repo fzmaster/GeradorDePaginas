@@ -1,5 +1,11 @@
 """
 This code generates files automatically
+
+HOW TO USE:
+
+In shell, call:
+$ python gerar_paginas.py
+
 """
 
 minimo = 1;
